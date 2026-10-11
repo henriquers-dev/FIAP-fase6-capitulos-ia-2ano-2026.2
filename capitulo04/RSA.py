@@ -122,6 +122,7 @@ print(f"A mensagem criptografada é {c}")
 
 mensagem_descriptografada = pow(c, d, n)
 
+
 print(
     f"A mensagem descriptografada é {mensagem_descriptografada}, que é",
     "diferente" if mensagem_descriptografada != mensagem else "igual",
