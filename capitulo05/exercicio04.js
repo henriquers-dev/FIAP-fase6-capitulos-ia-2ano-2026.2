@@ -1,4 +1,4 @@
-{
+const nome = {
   id: "1733845632106",           // Timestamp único
   nome: "João Silva",            // Nome completo
   email: "joao@email.com",       // Email (será login)
